@@ -35,3 +35,7 @@ Fiind realizata complet in sistemul Next.js cu Backend propriu integrat sub dire
 
 ### 3. Consilier Inteligent AI (`/app/api/chat`)
 - **`POST /api/chat`**: Primeste mesajele de la utilizator si le trimite mai departe agentului AI extern prin apeluri HTTPS. Functia preia raspunsul si il expediaza catre Front-End, totul intr-un mod securizat.
+
+Prezentare youtube: https://youtu.be/Xc7KmBY2Y5M
+Repo github: https://github.com/MihaiDaniel08/ProiectCloud
+Aplicatie vercel: https://proiect-cloud-uimf.vercel.app?_vercel_share=cvNm47JMzbcX6twGKYQq5kz9ZAmuygYG
